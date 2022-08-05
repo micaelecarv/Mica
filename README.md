@@ -2,7 +2,7 @@
 ##
 
 **About me:**
-- 👩‍💻 I'm developer front-end at [Somos Tera](https://github.com/somostera)
+- 👩‍💻 I'm developer front-end at [FreteBras(https://www.fretebras.com.br/)
 - 🎓 Student Software Engineer at [Estácio de Sá](https://estacio.br/cursos/graduacao/engenharia-de-software)
 
 <div align="center">
