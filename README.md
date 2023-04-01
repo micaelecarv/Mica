@@ -1,6 +1,6 @@
 **Hi, I'm Mica! 👋**
-##
 
+##
 **About me:**
 - 👩‍💻 I'm Software Engineer Front-end at [Frete.com](https://frete.com)
 - 🎓 Student Software Engineer at [Estácio de Sá](https://estacio.br/cursos/graduacao/engenharia-de-software)
@@ -38,20 +38,19 @@
 
  <br>
 
-  
- ##
-  
-**🔗 Links**
+ ![Snake animation](https://github.com/micaelecarv/micaelecarv/blob/output/github-contribution-grid-snake.svg)
+
+##
+**📫 Como me encontrar?**
+
 <div>
   <a href="https://www.linkedin.com/in/micaelecarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:micaelecarv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=https://medium.com/@micaelecarv target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mica_carv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mica_carv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- 
- ![Snake animation](https://github.com/micaelecarv/micaelecarv/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
+</br>
 
 **☕ Let's have a coffee with codes?**
