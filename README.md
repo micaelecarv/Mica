@@ -28,18 +28,6 @@
     <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue" target="_blank">
 </div>
 
-<br>
- 
-<div align="center">
-  <a href="https://github.com/micaelecarv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaelecarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelecarv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- <br>
-
- ![Snake animation](https://github.com/micaelecarv/micaelecarv/blob/output/github-contribution-grid-snake.svg)
-
 ##
 **📫 Como me encontrar?**
 
@@ -54,3 +42,14 @@
 </br>
 
 **☕ Let's have a coffee with codes?**
+##
+ <br>
+ 
+<div align="center">
+  <a href="https://github.com/micaelecarv">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=micaelecarv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelecarv&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+ ![Snake animation](https://github.com/micaelecarv/micaelecarv/blob/output/github-contribution-grid-snake.svg)
+
