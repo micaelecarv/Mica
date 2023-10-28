@@ -2,7 +2,7 @@
 
 ##
 **About me:**
-- 👩‍💻 I'm Software Engineer Front-end at [Frete.com](https://frete.com)
+- 👩‍💻 I'm Software Engineer Front-end at [Caju.com](https://www.caju.com.br/)
 - 🎓 Student Software Engineer at [Estácio de Sá](https://estacio.br/cursos/graduacao/engenharia-de-software)
 - 💬 Learning Facilitator at [Reprograma](https://reprograma.com.br)
 
